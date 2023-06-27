@@ -1,4 +1,5 @@
 # Hanna Hofman
+
 ### Junior Frontend Developer
 
 ---
@@ -16,8 +17,6 @@ Batumi, Georgia
 ---
 
 ### About Me:
-
-
 
 I am passionate of frontend development with a deep understanding of its principles and concepts. I have the ability to learn quickly and apply new technologies in my work. My strong understanding of HTML, CSS, and JavaScript allows me to create semantically correct markup and ensure content accessibility. Although  I don't have enough professional experience professional experience, I actively engage in self-learning and creating projects with React. I am ready to work effectively in a team and find elegant solutions to complex tasks
 
@@ -59,4 +58,4 @@ TypeScript/React/Redux/Redux-Thunk/SCSS<br>
 ---
 ### Languages:
 - English - Elementary (A2) in progress
--  Russian - Native
+- Russian - Native
